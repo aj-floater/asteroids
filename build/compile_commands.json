@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/Users/archiejames/Desktop/Floater/build",
+  "command": "/usr/bin/clang++  -I/Users/archiejames/Desktop/Floater/./src -I/Users/archiejames/Desktop/Floater/./include -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/floater.dir/src/main.cpp.o -c /Users/archiejames/Desktop/Floater/src/main.cpp",
+  "file": "/Users/archiejames/Desktop/Floater/src/main.cpp"
+},
+{
+  "directory": "/Users/archiejames/Desktop/Floater/build",
+  "command": "/usr/bin/clang  -I/Users/archiejames/Desktop/Floater/./src -I/Users/archiejames/Desktop/Floater/./include -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -o CMakeFiles/floater.dir/src/others/glad.c.o -c /Users/archiejames/Desktop/Floater/src/others/glad.c",
+  "file": "/Users/archiejames/Desktop/Floater/src/others/glad.c"
+},
+{
+  "directory": "/Users/archiejames/Desktop/Floater/build",
+  "command": "/usr/bin/clang++  -I/Users/archiejames/Desktop/Floater/./src -I/Users/archiejames/Desktop/Floater/./include -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/floater.dir/src/others/stb_image.cpp.o -c /Users/archiejames/Desktop/Floater/src/others/stb_image.cpp",
+  "file": "/Users/archiejames/Desktop/Floater/src/others/stb_image.cpp"
+},
+{
+  "directory": "/Users/archiejames/Desktop/Floater/build",
+  "command": "/usr/bin/clang++  -I/Users/archiejames/Desktop/Floater/./src -I/Users/archiejames/Desktop/Floater/./include -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/floater.dir/src/game/player.cpp.o -c /Users/archiejames/Desktop/Floater/src/game/player.cpp",
+  "file": "/Users/archiejames/Desktop/Floater/src/game/player.cpp"
+},
+{
+  "directory": "/Users/archiejames/Desktop/Floater/build",
+  "command": "/usr/bin/clang++  -I/Users/archiejames/Desktop/Floater/./src -I/Users/archiejames/Desktop/Floater/./include -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/floater.dir/src/game/asteroid.cpp.o -c /Users/archiejames/Desktop/Floater/src/game/asteroid.cpp",
+  "file": "/Users/archiejames/Desktop/Floater/src/game/asteroid.cpp"
+},
+{
+  "directory": "/Users/archiejames/Desktop/Floater/build",
+  "command": "/usr/bin/clang++  -I/Users/archiejames/Desktop/Floater/./src -I/Users/archiejames/Desktop/Floater/./include -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/floater.dir/src/utility/coord.cpp.o -c /Users/archiejames/Desktop/Floater/src/utility/coord.cpp",
+  "file": "/Users/archiejames/Desktop/Floater/src/utility/coord.cpp"
+},
+{
+  "directory": "/Users/archiejames/Desktop/Floater/build",
+  "command": "/usr/bin/clang++  -I/Users/archiejames/Desktop/Floater/./src -I/Users/archiejames/Desktop/Floater/./include -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/floater.dir/src/utility/clamp.cpp.o -c /Users/archiejames/Desktop/Floater/src/utility/clamp.cpp",
+  "file": "/Users/archiejames/Desktop/Floater/src/utility/clamp.cpp"
+}
+]

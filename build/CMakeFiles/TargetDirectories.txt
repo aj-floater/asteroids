@@ -1,0 +1,5 @@
+/Users/archiejames/Desktop/Floater/build/CMakeFiles/package.dir
+/Users/archiejames/Desktop/Floater/build/CMakeFiles/rebuild_cache.dir
+/Users/archiejames/Desktop/Floater/build/CMakeFiles/edit_cache.dir
+/Users/archiejames/Desktop/Floater/build/CMakeFiles/package_source.dir
+/Users/archiejames/Desktop/Floater/build/CMakeFiles/floater.dir
